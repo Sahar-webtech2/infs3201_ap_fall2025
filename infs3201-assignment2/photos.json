@@ -1,0 +1,55 @@
+[
+  {
+    "id": 82941,
+    "filename": "river.jpg",
+    "title": "Flowing river",
+    "date": 1720848000000,
+    "description": "2",
+    "resolution": "1920x1080",
+    "albums": [
+      2,
+      3
+    ],
+    "tags": [
+      "river",
+      "valley",
+      "water"
+    ]
+  },
+  {
+    "id": 73109,
+    "filename": "desert.jpg",
+    "title": "Sahara Sunset",
+    "date": 1710000000000,
+    "description": "Golden sand at dusk",
+    "resolution": "1920x1080",
+    "albums": [
+      1
+    ],
+    "tags": [
+      "desert",
+      "sand",
+      "sun",
+      "work"
+    ]
+  },
+  {
+    "id": 55500,
+    "filename": "cliff.jpg",
+    "title": "Coastal Cliff",
+    "date": 1700000000000,
+    "description": "Cliff above the ocean",
+    "resolution": [
+      "3840",
+      "2160"
+    ],
+    "albums": [
+      1
+    ],
+    "tags": [
+      "cliff",
+      "ocean",
+      "landscape"
+    ]
+  }
+]
